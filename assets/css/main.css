@@ -128,7 +128,7 @@
 	body, input, select, textarea, button {
 		color: #000000;
 		font-family: "Times New Roman", Times, serif;
-		font-size: 10pt;
+		font-size: 14pt;
 		font-weight: 300;
 		line-height: 2;
 		letter-spacing: 0.2em;
@@ -144,7 +144,7 @@
 		@media screen and (max-width: 1680px) {
 
 			body, input, select, textarea, button {
-				font-size: 11pt;
+				font-size: 14pt;
 			}
 
 		}
@@ -152,7 +152,7 @@
 		@media screen and (max-width: 480px) {
 
 			body, input, select, textarea, button {
-				font-size: 10pt;
+				font-size: 14pt;
 				line-height: 1.75;
 			}
 
