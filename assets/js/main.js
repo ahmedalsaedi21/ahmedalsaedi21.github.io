@@ -56,7 +56,7 @@ anime.timeline({loop: true})
   }).add({
     targets: '.ml3',
     opacity: 0,
-    duration: 1000,
+    duration: 2000,
     easing: "easeOutExpo",
-    delay: 1000
+    delay: 2000
   });
