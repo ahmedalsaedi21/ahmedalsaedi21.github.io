@@ -1025,3 +1025,7 @@
 		body.is-ie #wrapper {
 			height: 100%;
 		}
+.ml3 {
+  font-weight: 300;
+  font-size: 1.0em;
+}
