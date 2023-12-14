@@ -6,7 +6,7 @@ The repository holds the code used on my mini-website
 
 It's released under a [Creative Commons Attribution-ShareAlike 3.0 International License](http://creativecommons.org/licenses/by/3.0/).
 
-Background photo taken in  Karlskrona, Sweden. 
+Background photo taken in  BTH, Karlskrona, Sweden. 
 
 Flipping animation based on a [tutorial](https://davidwalsh.name/css-flip)
 by David Walsh.
