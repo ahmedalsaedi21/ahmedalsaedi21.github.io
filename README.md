@@ -1,12 +1,12 @@
-# Glickmac.github.io
+# ahmedalsaedi21.github.io
 
 The repository holds the code used on my mini-website  
-[glickmac.github.io](http://glickmac.github.io).
+[ahmedalsaedi21.github.io](http://ahmedalsaedi21.github.io).
 
-Feel free to use any of this code as you wish.
+
 It's released under a [Creative Commons Attribution-ShareAlike 3.0 International License](http://creativecommons.org/licenses/by/3.0/).
 
-Background photo taken by Shana Kronish, showing Milford Sound in New Zealand in the Summer of 2017. 
+Background photo taken in London in the Summer of 2015. 
 
 Flipping animation based on a [tutorial](https://davidwalsh.name/css-flip)
 by David Walsh.
