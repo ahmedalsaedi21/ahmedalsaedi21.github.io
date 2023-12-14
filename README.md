@@ -1,7 +1,7 @@
-# Glickmac.github.io
+# ahmedalsaedi21.github.io
 
 The repository holds the code used on my mini-website  
-[[ahmedalsaedi21.io)).
+[ahmedalsaedi21.github.io](http://ahmedalsaedi21.github.io).
 
 Feel free to use any of this code as you wish.
 It's released under a [Creative Commons Attribution-ShareAlike 3.0 International License](http://creativecommons.org/licenses/by/3.0/).
